@@ -1,7 +1,7 @@
 # portfolio
 
 # LIVE DEMO 👇🏻
-# https://arun-kumar-kanakanti.github.io/PORTFOLIO/
+# https://github.com/Arun-Kumar-Kanakanti/My-Portfolio
 # OUTPUT
 ![Image](https://github.com/user-attachments/assets/43567843-10ee-498f-8be1-2b11e8c482e1)
 
