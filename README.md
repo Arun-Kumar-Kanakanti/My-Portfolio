@@ -1,7 +1,7 @@
 # portfolio
 
 # LIVE DEMO 👇🏻
-# https://kaif-g.github.io/My-Portfolio/
+# https://arun-kumar-kanakanti.github.io/PORTFOLIO/
 # OUTPUT
 ![Image](https://github.com/user-attachments/assets/43567843-10ee-498f-8be1-2b11e8c482e1)
 
